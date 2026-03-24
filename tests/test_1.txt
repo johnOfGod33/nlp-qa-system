@@ -1,0 +1,5 @@
+Koffi is a backend developer working on a project called AgroPredict. The application helps farmers predict weather conditions. It was launched in 2024. Koffi works with Ama, a data scientist, and Yao, a backend developer. The project currently has 200 users.
+
+At the beginning, the data was difficult to use because of faulty sensors. After improvements, the prediction accuracy increased from 60% to 85%.
+
+The application quickly gained attention and reached 300 users in two months. A company offered to buy the project, but Koffi refused in order to keep control and stay true to his goal of helping farmers.
